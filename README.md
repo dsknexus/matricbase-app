@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="logo.png" width="120" />
+
 # MatricBase Android App
 
 **Official Android application for the MatricBase education platform.**
