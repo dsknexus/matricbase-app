@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" width="120" />
+<img src="logo.jpg" width="120" />
 
 # MatricBase Android App
 
