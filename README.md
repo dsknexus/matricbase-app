@@ -4,7 +4,7 @@
 
 # MatricBase Android App
 
-**Official Android application for the MatricBase education platform.**
+**The official Android application for MatricBase, an education platform for South African Grade 12 learners.**
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ## About
 
-MatricBase is an education platform designed to help South African Grade 12 learners access important information, study resources, and tools that support their journey after high school.
+MatricBase is a digital education platform designed to help South African Grade 12 learners access useful information, study resources, and tools that support their journey after high school.
 
-This repository contains the official Android application source code for MatricBase.
+This repository contains the Android application project for MatricBase.
 
 ---
 
@@ -26,7 +26,7 @@ This repository contains the official Android application source code for Matric
 - Study resources
 - Bursary opportunities
 - Career guidance
-- Student support tools
+- Student tools
 
 ---
 
@@ -41,27 +41,29 @@ Built with:
 
 ---
 
-## Related Projects
+## Product
+
+MatricBase is a digital product created by DSK Nexus.
 
 Website:
 https://matricbase.co.za
 
-Built by:
-https://dsknexus.co.za
-
 ---
 
-## Developer
+## Created By
 
 **DSK Nexus**
 
 An independent software venture building digital products that solve real-world problems.
 
+Website:
+https://dsknexus.co.za
+
 ---
 
-## Vision
+## About DSK Nexus
 
-MatricBase aims to make educational information and opportunities more accessible for South African learners through simple and useful technology.
+DSK Nexus creates digital products focused on improving access to information, opportunities, and better digital experiences.
 
 ---
 
