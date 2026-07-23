@@ -32,12 +32,9 @@ This repository contains the Android application project for MatricBase.
 
 ## Technology
 
-Built with:
+Built for:
 
 - Android
-- Kotlin
-- Android Studio
-- Modern Android development tools
 
 ---
 
