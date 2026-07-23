@@ -12,7 +12,7 @@
 
 ## About
 
-MatricBase is an education platform built to help South African Grade 12 learners access university information, study resources, applications guidance, and future opportunities.
+MatricBase is an education platform built to help South African Grade 12 learners access university information, study resources, application guidance, and future opportunities.
 
 This repository contains the official Android application source code.
 
@@ -46,7 +46,7 @@ Built with:
 Website:
 https://matricbase.co.za
 
-Company:
+DSK Nexus:
 https://dsknexus.co.za
 
 ---
